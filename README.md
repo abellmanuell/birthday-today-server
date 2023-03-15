@@ -1,6 +1,6 @@
 ## Birthday Today Server
 
-Birthday today Server is a nodejs, express server that is build to send data to Birthdayto know your employees, clients and family & friends birthday. The web application is responsive and user-friendly.
+Birthday today Server is simple nodejs, express server that is build to send data to birthday today frontend.
 
 ### Setup Requirement
 
